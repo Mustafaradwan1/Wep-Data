@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Wep-Data/static/css/main.c40f9cec.css",
+    "main.js": "/Wep-Data/static/js/main.de91b9eb.js",
+    "static/media/erpHead.png": "/Wep-Data/static/media/erpHead.c87ebcba6ad56dc28add.png",
+    "static/media/vedio.png": "/Wep-Data/static/media/vedio.991bae7c89a229416a82.png",
+    "static/media/head.png": "/Wep-Data/static/media/head.30d1f61b9dd191d116f2.png",
+    "static/media/erp2.png": "/Wep-Data/static/media/erp2.df7b3e9b14877453dd61.png",
+    "static/media/erp3.png": "/Wep-Data/static/media/erp3.b97108563000522932c5.png",
+    "static/media/erp1.png": "/Wep-Data/static/media/erp1.b1167ea008a799a9c174.png",
+    "static/media/template1.png": "/Wep-Data/static/media/template1.e4c247042c992b6d4367.png",
+    "static/media/template4.png": "/Wep-Data/static/media/template4.1304456abc3e5899819a.png",
+    "static/media/template2.png": "/Wep-Data/static/media/template2.10144846ab6b155067b4.png",
+    "static/media/template3.png": "/Wep-Data/static/media/template3.ea5949fb25650017ea2b.png",
+    "static/media/shap2.svg": "/Wep-Data/static/media/shap2.84c91da8e5962e19d080700c5a5920e1.svg",
+    "static/media/icon7.svg": "/Wep-Data/static/media/icon7.2cd0d21594fc651e569334c5e6700c19.svg",
+    "static/media/icon5.svg": "/Wep-Data/static/media/icon5.b2fffbe140159f69bb12b8e151e59ab9.svg",
+    "static/media/icon00.svg": "/Wep-Data/static/media/icon00.0c8806f12cf311eb5f9e4ba15ad95b07.svg",
+    "static/media/icon6.svg": "/Wep-Data/static/media/icon6.71fd27cb865ab655ce82f801ae11c188.svg",
+    "static/media/icon9.svg": "/Wep-Data/static/media/icon9.6ac58f8e5ad6507eade43b952047d8dd.svg",
+    "static/media/icon2.svg": "/Wep-Data/static/media/icon2.5f4267cfe6e9519d8eedae4fadc6b9e8.svg",
+    "static/media/icon8.svg": "/Wep-Data/static/media/icon8.b1a1dd344c6fa4537e0024e3968cd7f2.svg",
+    "static/media/icon1.svg": "/Wep-Data/static/media/icon1.1c53a21c85d8c9511e8fc7ce846eefbe.svg",
+    "static/media/icon4.svg": "/Wep-Data/static/media/icon4.4d1471e8586d70794bfd6bede8be5466.svg",
+    "index.html": "/Wep-Data/index.html",
+    "static/media/1 (1).svg": "/Wep-Data/static/media/1 (1).a3cfb318bb949bb45935a60ad101ed9d.svg",
+    "static/media/shap1.svg": "/Wep-Data/static/media/shap1.c743524794cd6200c61966affa43ab37.svg",
+    "main.c40f9cec.css.map": "/Wep-Data/static/css/main.c40f9cec.css.map",
+    "main.de91b9eb.js.map": "/Wep-Data/static/js/main.de91b9eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c40f9cec.css",
+    "static/js/main.de91b9eb.js"
+  ]
+}
