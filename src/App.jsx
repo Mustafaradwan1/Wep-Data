@@ -5,6 +5,7 @@ import { ERP, Home } from "./Pages"
 import { FaTwitter } from "react-icons/fa";
 import { FaWhatsapp } from "react-icons/fa";
 import { FaHeadset } from "react-icons/fa6";
+import Mobile from "./Mobile";
 
 
 function App() {
@@ -35,6 +36,7 @@ function App() {
             <Route path='/' element={<Home />} />
             <Route path='/Home' element={<Home />} />
             <Route path='/ERP' element={<ERP />} />
+            <Route path='/Mobile' element={<Mobile />} />
           </Routes>
         </div>
         <div>

@@ -12,7 +12,7 @@ export const NavbarData = [
     },
     {
         nav:"Solutions",
-        hash:"",
+        hash:"Mobile",
     },
     {
         nav:"Pricing",
