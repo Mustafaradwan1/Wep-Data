@@ -8,11 +8,11 @@ import tem4 from "../assets/homeImg/template4.png"
 export const NavbarData = [
     {
         nav:"Products",
-        hash:"ERP",
+        hash:"/ERP",
     },
     {
         nav:"Solutions",
-        hash:"Mobile",
+        hash:"/Mobile",
     },
     {
         nav:"Pricing",
